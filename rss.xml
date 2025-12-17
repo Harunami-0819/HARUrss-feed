@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>HARUボード・お知らせ</title>
-    <link>https://example.com/rss.xml</link>
+    <link>https://github.com/Harunami-0819/HARUrss-feed/tree/main</link>
     <description>HARUボードのお知らせ機能です</description>
     <language>ja</language>
 
