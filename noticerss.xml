@@ -2,7 +2,8 @@
 <rss version="2.0">
   <channel>
     <!-- フィード基本情報 -->
-    <title>HARUBoardnotice</title>
+    <title>HARUBoardnotice
+  </title>
     <link>https://example.com/</link>
     <description>HARUボードのお知らせ機能です</description>
     <language>ja</language>
