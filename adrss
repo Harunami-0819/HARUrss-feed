@@ -10,11 +10,11 @@
       <title>2025-12-18 Test配信</title>
       <guid>20251218-1</guid>
       <pubDate>Tue, 18 Dec 2025 0:32:00 +0900</pubDate>
-      <description><![CDATA[
+      <description>
         ここに本文を書きます。<br>
         改行もHTMLタグも使えます。<br><br>
         RSS内だけで完結します。
-      ]]></description>
+      </description>
     </item>
 
   </channel>
