@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HARUボード</title>
-    <description>VRChat向け軽量RSS</description>
+    <!-- フィード基本情報 -->
+    <title>HARU Board</title>
+    <link>https://example.com/</link>
+    <description>VRChat向けインフォメーションRSS</description>
     <language>ja</language>
+    <lastBuildDate>Wed, 18 Dec 2025 10:00:00 +0900</lastBuildDate>
 
+    <!-- 記事1 -->
     <item>
-      <id>20251218-1</id>
-      <date>2025-12-18T19:20:00+09:00</date>
-      <title>更新タイトル</title>
-      <text>これは本文です
-2行目の文章です
-3行目の文章です</text>
+      <title>更新タイトル1｜ここが見出し</title>
+      <link>https://example.com/post/1</link>
+      <description>これは本文テキストです。VRChatでは1行ずつ表示されます。</description>
+      <pubDate>Wed, 18 Dec 2025 09:00:00 +0900</pubDate>
+      <guid>post-1</guid>
+    </item>
+
+    <!-- 記事2 -->
+    <item>
+      <title>更新タイトル2｜メンテナンスのお知らせ</title>
+      <link>https://example.com/post/2</link>
+      <description>12/20 22:00〜23:00 にメンテナンスを行います。</description>
+      <pubDate>Wed, 18 Dec 2025 08:00:00 +0900</pubDate>
+      <guid>post-2</guid>
+    </item>
+
+    <!-- 記事3 -->
+    <item>
+      <title>更新タイトル3｜イベント告知</title>
+      <link>https://example.com/post/3</link>
+      <description>週末にVRChatイベントを開催します。</description>
+      <pubDate>Wed, 18 Dec 2025 07:00:00 +0900</pubDate>
+      <guid>post-3</guid>
     </item>
 
   </channel>
