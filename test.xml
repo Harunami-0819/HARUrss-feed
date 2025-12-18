@@ -11,9 +11,7 @@
   <link>https://example.com/dummy1</link>
   <guid isPermaLink="false">20251218-1</guid>
   <pubDate>Wed, 18 Dec 2025 23:10:00 +0900</pubDate>
-  <description>これは本文です
-2行目のテキスト
-3行目</description>
+  <description>これは本文です</description>
 </item>
 
   </channel>
