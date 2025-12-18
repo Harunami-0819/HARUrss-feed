@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS配信</title>
+    <link>https://example.com/</link>
+    <description>LINE用RSS</description>
+    <language>ja</language>
+
+    <item>
+      <title>更新タイトル</title>
+      <link>https://example.com/dummy1</link>
+      <guid isPermaLink="false">20251218-1</guid>
+      <pubDate>Wed, 18 Dec 2025 23:00:00 +0900</pubDate>
+      <description>
+本文はプレーンテキストのみ
+HTMLタグは使わない
+      </description>
+    </item>
+
+  </channel>
+</rss>
