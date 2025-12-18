@@ -3,21 +3,21 @@
   <channel>
     <!-- フィード基本情報 -->
     <title>HARUBoardad</title>
-    <link>https://example.com/</link>
+    <link>https://example2.com/</link>
     <description>HARUボードの広告です</description>
     <language>ja</language>
     <lastBuildDate>Wed, 18 Dec 2025 10:10:00 +0900</lastBuildDate>
     
     <item>
       <title>Test配信｜12/25日を目標に制作中のHARUボード広告用サンプル文２です</title>
-      <link>https://example.com/post/1</link>
+      <link>https://example.com/post/2</link>
       <description>あ</description>
       <pubDate>Wed, 18 Dec 2025 09:10:00 +0900</pubDate>
       <guid>ad-2</guid>
     </item>
     <item>
       <title>Test配信｜12/25日を目標に制作中のHARUボード広告用サンプル文です</title>
-      <link>https://example.com/post/1</link>
+      <link>https://example.com/post/2</link>
       <description>あ</description>
       <pubDate>Wed, 18 Dec 2025 09:00:00 +0900</pubDate>
       <guid>ad-1</guid>
