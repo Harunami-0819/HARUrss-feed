@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link>https://github.com/Harunami-0819/HARUrss-feed/tree/main</link>
+    <!-- フィード基本情報 -->
+    <title>HARU Board</title>
+    <link>https://example.com/</link>
     <description>HARUボードのお知らせ機能です</description>
     <language>ja</language>
-
+    <lastBuildDate>Wed, 18 Dec 2025 10:00:00 +0900</lastBuildDate>
+    
     <item>
-      <title>2025-12-17 Test配信</title>
-      <link>https://github.com/Harunami-0819/HARUrss-feed/tree/main</link>
-      <guid>20251217-2</guid>
-      <pubDate>Tue, 17 Dec 2025 23:00:00 +0900</pubDate>
-      <description>
-        ここに本文を書きます。<br>
-        改行もHTMLタグも使えます。<br><br>
-        RSS内だけで完結します。
-      </description>
+      <title>Test配信｜12/25日を目標に制作中のHARUボードお知らせ用サンプル文です</title>
+      <link>https://example.com/post/1</link>
+      <description>あ</description>
+      <pubDate>Wed, 18 Dec 2025 09:00:00 +0900</pubDate>
+      <guid>post-1</guid>
     </item>
-
+    
   </channel>
 </rss>
