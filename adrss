@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <!-- フィード基本情報 -->
-    <title>HARU Board</title>
+    <title>HARUBoardad</title>
     <link>https://example.com/</link>
     <description>HARUボードの広告です</description>
     <language>ja</language>
