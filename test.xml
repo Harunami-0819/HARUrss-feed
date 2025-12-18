@@ -7,11 +7,12 @@
     <language>ja</language>
 
 <item>
-  <link>https://example.com/dummy1</link>
-  <guid isPermaLink="false">20251218-5</guid>
-  <pubDate>Wed, 18 Dec 2025 19:20:00 +0900</pubDate>
-  <title>更新タイトル2｜これは本文です</title>
-  <description>これは本文です</description>
+  <title>更新タイトル</title>
+  <guid isPermaLink="false">20251218-10</guid>
+  <pubDate>Wed, 18 Dec 2025 19:22:00 +0900</pubDate>
+  <description>これは本文です
+2行目
+3行目</description>
 </item>
 
   </channel>
