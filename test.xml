@@ -7,10 +7,10 @@
     <language>ja</language>
 
 <item>
-  <title>更新タイトル</title>
   <link>https://example.com/dummy1</link>
   <guid isPermaLink="false">20251218-2</guid>
   <pubDate>Wed, 18 Dec 2025 19:20:00 +0900</pubDate>
+  <title>更新タイトル｜これは本文です</title>
   <description>これは本文です</description>
 </item>
 
