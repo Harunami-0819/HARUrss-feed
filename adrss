@@ -13,14 +13,14 @@
       <link>https://example.com/post/1</link>
       <description>あ</description>
       <pubDate>Wed, 18 Dec 2025 09:10:00 +0900</pubDate>
-      <guid>post-2</guid>
+      <guid>ad-2</guid>
     </item>
     <item>
       <title>Test配信｜12/25日を目標に制作中のHARUボード広告用サンプル文です</title>
       <link>https://example.com/post/1</link>
       <description>あ</description>
       <pubDate>Wed, 18 Dec 2025 09:00:00 +0900</pubDate>
-      <guid>post-1</guid>
+      <guid>ad-1</guid>
     </item>
     
   </channel>
