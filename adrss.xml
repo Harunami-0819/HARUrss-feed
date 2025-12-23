@@ -24,21 +24,5 @@
       <guid isPermaLink="false">ad-3</guid>
     </item>
     
-    <!--<item>
-      <title>Test配信｜12/25日を目標に制作中のHARUボード広告用サンプル文２です</title>
-      <link>https://example.com/post/2</link>
-      <description>あ</description>
-      <pubDate>Wed, 18 Dec 2025 09:10:00 +0900</pubDate>
-      <guid isPermaLink="false">ad-2</guid>
-    </item>
-    
-    <item>
-      <title>Test配信｜12/25日を目標に制作中のHARUボード広告用サンプル文です</title>
-      <link>https://example.com/post/2</link>
-      <description>あ</description>
-      <pubDate>Wed, 18 Dec 2025 09:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ad-1</guid>
-    </item>-->
-    
   </channel>
 </rss>
