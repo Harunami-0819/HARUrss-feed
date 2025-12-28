@@ -10,6 +10,14 @@
     <lastBuildDate>Wed, 18 Dec 2025 10:00:00 +0900</lastBuildDate>
 
     <item>
+      <title>12/28不具合 12/26 18:00～19:45の間、情報が取得できない不具合がありました。現在は通常通り取得できます。</title>
+      <link>https://example.com/post/1</link>
+      <description>あ</description>
+      <pubDate>Sun, 28 Dec 2025 19:58:00 +0900</pubDate>
+      <guid isPermaLink="false">notice-6</guid>
+    </item>
+    
+    <item>
       <title>12/28更新 天気欄を「正午までその日の天気」「正午以降 次の日の天気」になるように変更しました。</title>
       <link>https://example.com/post/1</link>
       <description>あ</description>
