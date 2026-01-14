@@ -10,19 +10,19 @@
     <lastBuildDate>Wed, 18 Dec 2025 10:00:00 +0900</lastBuildDate>
 
     <item>
+      <title>1/15 Ver1.2.0をリリースしました。この文が表示されているVerはまもなくご利用いただけなくなりますのでアップデートをお願いします。</title>
+      <link>https://example.com/post/1</link>
+      <description>あ</description>
+      <pubDate>Thu, 15 Jan 2025 0:5:00 +0900</pubDate>
+      <guid isPermaLink="false">notice-10</guid>
+    </item>
+    
+    <item>
       <title>1/3のメンテナンスは予定通り終了しました。ご不便をおかけしました。</title>
       <link>https://example.com/post/1</link>
       <description>あ</description>
       <pubDate>Sat, 3 Jan 2026 18:10:00 +0900</pubDate>
       <guid isPermaLink="false">notice-9</guid>
-    </item>
-    
-    <item>
-      <title>12/30 Ver1.1.0をリリースしました。これには持続可能なサービス提供に必要な更新がありますのでアップデートをお願いします。</title>
-      <link>https://example.com/post/1</link>
-      <description>あ</description>
-      <pubDate>Tue, 30 Dec 2025 20:54:00 +0900</pubDate>
-      <guid isPermaLink="false">notice-7</guid>
     </item>
     
     <item>
