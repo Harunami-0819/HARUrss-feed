@@ -8,14 +8,6 @@
     <description>HARUボードのお知らせ機能です</description>
     <language>ja</language>
     <lastBuildDate>Wed, 18 Dec 2025 10:00:00 +0900</lastBuildDate>
-
-    <item>
-      <title>衆議院総選挙・最高裁国民審査は2/8が投票日。あなたの街の投票所インスタンスへのjoinをお忘れなく。2/8 20時まで実施中。</title>
-      <link>https://example.com/post/1</link>
-      <description>あ</description>
-      <pubDate>Sat, 7 Feb 2025 13:09:00 +0900</pubDate>
-      <guid isPermaLink="false">notice-11</guid>
-    </item>
     
     <item>
       <title>1/15 Ver1.2.0をリリースしました。この文が表示されているVerはまもなくご利用いただけなくなりますのでアップデートをお願いします。</title>
